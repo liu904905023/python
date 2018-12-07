@@ -11,3 +11,6 @@ For non-programmers
   *Run pip install xmltodict six "requests>=2.10.0" "PySocks>=1.5.6" in your terminal (Windows terminal, Mac OS terminal)
 
   *Download the zip file and Unzip.
+* 列表1
+ + 列表2
+   - 列表3
